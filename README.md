@@ -18,3 +18,25 @@ More info [here](http://paddlepaddle.org).
 - [Books](#books)
 
 <!-- /MarkdownTOC -->
+
+<a name="github-tutorials" />
+
+## Tutorials
+
+## Models/Projects
+
+## Tools/Utilities
+
+## Videos
+
+## Papers
+
+## Official announcements
+
+## Blog posts
+
+## Community
+
+## Books
+
+## Contributions
