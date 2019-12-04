@@ -22,6 +22,7 @@ More info [here](http://paddlepaddle.org).
 <a name="github-tutorials" />
 
 ## Tutorials
+* [PaddlePaddle Book](https://github.com/PaddlePaddle/book) - Basic introduction to deep learning and simple implementation with PaddlePaddle
 
 ## Models/Projects
 
