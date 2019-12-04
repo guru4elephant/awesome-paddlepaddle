@@ -11,11 +11,7 @@ More info [here](http://paddlepaddle.org).
 - [Tutorials](#github-tutorials)
 - [Models/Projects](#github-projects)
 - [Tools/Utilities](#tools-utils)
-- [Videos](#video)
-- [Papers](#papers)
-- [Blog posts](#blogs)
-- [Community](#community)
-- [Books](#books)
+
 
 <!-- /MarkdownTOC -->
 
@@ -25,19 +21,13 @@ More info [here](http://paddlepaddle.org).
 * [PaddlePaddle Book](https://github.com/PaddlePaddle/book) - Basic introduction to deep learning and simple implementation with PaddlePaddle
 
 ## Models/Projects
+* [PaddleCV](https://github.com/PaddlePaddle/models/tree/develop/PaddleCV) - Compute Vision models based on PaddlePaddle.
+* [PaddleNLP](https://github.com/PaddlePaddle/models/tree/develop/PaddleNLP) - Natural Language Processing models based on PaddlePaddle.
+* [PaddleRec](https://github.com/PaddlePaddle/models/tree/develop/PaddleRec) - Recommendation models based on PaddlePaddle
+* [PaddleSpeech](https://github.com/PaddlePaddle/models/tree/develop/PaddleSpeech) - Speech Recognition models based on PaddlePaddle
+* [PaddleKG](https://github.com/PaddlePaddle/models/tree/develop/PaddleKG) - Knowledge Graph models based on PaddlePaddle
 
 ## Tools/Utilities
+* [Elastic Deep Learning](https://github.com/PaddlePaddle/edl) - Elastic Deep Learning based on PaddlePaddle.
+* [Paddle Image Segmentation Tool](https://github.com/PaddlePaddle/PaddleSeg) - A Image Segmentation tool based on PaddlePaddle.
 
-## Videos
-
-## Papers
-
-## Official announcements
-
-## Blog posts
-
-## Community
-
-## Books
-
-## Contributions
